@@ -36,6 +36,6 @@ python3 -m pip install -r requirements.txt
 
 Para rodar a aplicação:
 ```
-pyhton3 app.js
+python3 app.py
 ```
 </details>
