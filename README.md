@@ -7,9 +7,9 @@ Este trabalho é uma parte avaliativa da disciplina de Inteligência Artificial 
 # Oque é o Nath?
 
 <details>
-É um chatbot que utiliza a poderosa biblioteca [**ChatterBot**](https://chatterbot.readthedocs.io/en/stable/index.html) , que o capacita a criar respostas inteligentes e aprimorar seu conhecimento por meio da interação.
+É um chatbot que utiliza a poderosa biblioteca chamada ChatterBot, que o capacita a criar respostas inteligentes e aprimorar seu conhecimento por meio da interação.
 
-**ChatterBot** é uma incrível biblioteca de inteligência artificial para Python, que permite ao "Nath" compreender e responder às suas perguntas com precisão e perspicácia.
+[**ChatterBot**](https://chatterbot.readthedocs.io/en/stable/index.html) é uma incrível biblioteca de inteligência artificial para Python, que permite ao "Nath" compreender e responder às suas perguntas com precisão e perspicácia.
 
 Além disso, o Nath é construído sobre o framework web [Flask](https://flask.palletsprojects.com/en/3.0.x/), o que significa que ele não apenas é inteligente, mas também ágil. Flask é conhecido por sua simplicidade e facilidade de uso, permitindo o desenvolvimento de aplicações web de forma rápida e eficiente.
 
