@@ -1,0 +1,22 @@
+**/.vscode/
+**/.idea/
+
+# Environments
+.env
+.venv*
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+
+##
+
+.sentence_tokenizer.pickle
+sentence_tokenizer.pickle
