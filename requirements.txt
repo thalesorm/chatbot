@@ -1,2 +1,3 @@
 flask
-chatterbot
+python3 -m pip install chatterbot==1.0.4
+python3 -m pip install pytz
